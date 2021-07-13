@@ -34,4 +34,5 @@ write-token.json
 /sentences/**
 /unadded_links/**
 /duplicates/**
+/novels/**
 unscraped.txt
