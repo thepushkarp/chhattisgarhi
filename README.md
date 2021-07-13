@@ -1,5 +1,9 @@
 <h1 align="center"> Scrape Chhattigarhi</h1>
 
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/thepushkarp/chhattisgarhi/blob/main/script.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg"></a>
+</p>
+
 <p align="center">Script to collect scrape and clean sentences in Chhattisgarhi for the project <a href="https://www.respin.iisc.ac.in/">Speech Recognition in Agriculture and Finance for the Poor in India</a></p>
 
 <hr/>
